@@ -314,7 +314,7 @@ The annual _Fantastic Futures_ conference is the main conference series for the 
 
 ### News sources
 
-- [ARL Day in Review](https://www.arl.org/category/day-in-review)
+- [ARL Daily Intelligence](https://www.arl.org/category/daily-intelligence/)
 
 
 ## Community
